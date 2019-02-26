@@ -1,5 +1,6 @@
+package Excercise;
 
-public class CatsandMouse {
+public class RegisEx {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
